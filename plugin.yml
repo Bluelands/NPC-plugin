@@ -1,6 +1,6 @@
 name: NPC
-author: alvin0319
-main: alvin0319\NPC\NPCPlugin
+author: Bluelands
+main: Bluelands\NPC\NPCPlugin
 version: 1.0.8
 api: 3.0.0
 
